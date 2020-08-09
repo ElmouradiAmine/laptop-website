@@ -188,5 +188,6 @@ main {
 	display: flex;
 	justify-content: space-around;
 	position: absolute;
-	right: 20%;
+    right: 20%;
+    bottom: 10%;
 }
